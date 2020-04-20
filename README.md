@@ -2,7 +2,7 @@
 # DIY-NAMIC Data Analysis
 
 
-This is the third repository, in a three-part series, which contains scripts for analysis of data collected in DIY-NAMIC boxes using behavioral paradigms from [second repository](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs).  
+This repo contains scripts for analysis of data collected in the DIY-NAMIC system using behavioral paradigms from [ArduinoPrograms](https://github.com/DIY-NAMICsystem/ArduinoPrograms).  
 
 ___
 ### General Notes on Code Organization
@@ -14,7 +14,7 @@ ___
 
 ### How to Run
 **IMPORTANT NOTE!**
-Use pandas=0.25 to run the data analysis codes!! - There are some changes between 0.25 and 1.0 that crash the codebase if using pandas>=1.0 
+Use pandas=0.25 to run the data analysis code!! - There are some changes between 0.25 and 1.0 that crash the codebase if using pandas>=1.0 
 
 
 #### Step0: Concatenate_all_txt_files (Raw_Processing_Files)
