@@ -1,0 +1,14 @@
+Selin Capan PSYC 90
+
+              Example use case for the DIY-NAMIC-Analysis-For-DD Code
+The files in this folder were generated using raw data from the administration of paradigm P6-2 of the DIY-NAMIC discounting task, analyzed using the DIY-NAMIC-Analysis-For-DD code. They represent an example use case for both the general metrics and latency analysis functions of the code. 
+
+
+----- 
+
+Parameters used to analyze the example use case: 
+- analysis bin size (hours): 23
+- residual time bin size (hours): 15
+- Do you also want to export latency data?: y
+
+Raw Files used in the example analysis can be found in the "Example_DIY-NAMIC_Analysis_RawData" folder. 
